@@ -1,2 +1,1 @@
-uhhh hi guys its me ikottiz 
-i do script for lego games
+scripts for lego games,skid,noob,retard,bozo
