@@ -1,1 +1,2 @@
-scripts for lego games,skid,noob,retard,bozo
+i do scripts for lego game
+skid,noob,retard,bozo
