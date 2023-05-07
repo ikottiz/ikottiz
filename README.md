@@ -1,2 +1,2 @@
-i do scripts for lego game                                                              
-skid,noob,retard,bozo
+Yes, I do scripts for that "RoBlocks" game.
+skid,dumbass,retard
