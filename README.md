@@ -1,2 +1,1 @@
-Yes, I do scripts for that "RoBlocks" game.
-skid,dumbass,retard
+my name is nikita
