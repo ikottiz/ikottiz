@@ -13,4 +13,5 @@
 
 ---
 #### **Socials**
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/borderlineschizo) [![Codewars](https://www.codewars.com/users/ikottiz/badges/micro)](https://www.codewars.com/users/ikottiz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nnnnbbnnbb) [![Codewars](https://www.codewars.com/users/ikottiz/badges/micro)](https://www.codewars.com/users/ikottiz)
+
